@@ -29,7 +29,7 @@ A project that demonstrates **Advanced OOP Concepts** in Java.
 
 ### How to Run:
 ```bash
-javac Birthday.java,
+javac Birthday.java
 java Birthday
 ```
 
