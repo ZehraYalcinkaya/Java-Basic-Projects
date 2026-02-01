@@ -17,3 +17,17 @@ The Template (features.java): This is the "blueprint" (like a C struct but smart
 The Object (myPhone.java): This is where the magic happens. I created a new instance (object) from the template using the new keyword.
 
 The Logic: The main program sends specific data (Brand and GB) to the object's methods, which then process and display the phone's specifications on the console.
+
+
+## 🎂 Birthday Organizer
+A project that demonstrates **Advanced OOP Concepts** in Java.
+
+### Key Features:
+* **Constructor Chaining:** Uses `this()` to call one constructor from another, providing default values (like year: 2005, place: Tokat).
+* **The `this` Keyword:** Distinguishes between class variables and parameters.
+* **String Manipulation:** Uses `.toUpperCase()` to format the output.
+
+### How to Run:
+```bash
+javac Birthday.java
+java Birthday
