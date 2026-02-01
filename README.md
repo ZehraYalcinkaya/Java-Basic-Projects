@@ -28,9 +28,10 @@ A project that demonstrates **Advanced OOP Concepts** in Java.
 * **String Manipulation:** Uses `.toUpperCase()` to format the output.
 
 ### How to Run:
-
-javac Birthday.java
+```bash
+javac Birthday.java,
 java Birthday
+```
 
 ### 🖥️ Terminal Output
 <img width="727" height="187" alt="image" src="https://github.com/user-attachments/assets/73992cca-76bf-4f72-9a9a-2980830f1e3d" />
