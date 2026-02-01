@@ -31,3 +31,13 @@ A project that demonstrates **Advanced OOP Concepts** in Java.
 ```bash
 javac Birthday.java
 java Birthday
+
+
+   LENOVO@DESKTOP-36CFOM7   ~\Desktop\Desktop\kod\java  2026-02-01 23:42:58   
+  javac Birthday.java
+   LENOVO@DESKTOP-36CFOM7   ~\Desktop\Desktop\kod\java  2026-02-01 23:43:04   
+  java Birthday
+Zehra's birthday is 3 of AUGUST 2005 Tokat
+Sude's birthday is 2 of MARCH 1998 Istanbul
+   LENOVO@DESKTOP-36CFOM7   ~\Desktop\Desktop\kod\java  2026-02-01 23:43:06   
+
