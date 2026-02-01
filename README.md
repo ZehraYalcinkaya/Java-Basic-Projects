@@ -28,7 +28,7 @@ A project that demonstrates **Advanced OOP Concepts** in Java.
 * **String Manipulation:** Uses `.toUpperCase()` to format the output.
 
 ### How to Run:
-
+```bash
 javac Birthday.java
 java Birthday
 ```
