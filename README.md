@@ -31,6 +31,7 @@ A project that demonstrates **Advanced OOP Concepts** in Java.
 
 javac Birthday.java
 java Birthday
+```
 
 
 ### 🖥️ Terminal Output
