@@ -37,3 +37,16 @@ java Birthday
 ### 🖥️ Terminal Output
 <img width="727" height="187" alt="image" src="https://github.com/user-attachments/assets/73992cca-76bf-4f72-9a9a-2980830f1e3d" />
 
+---
+
+## 🦁 Animal Kingdom (Abstraction & Inheritance)
+(Animal & WhichOne work together)
+This project focuses on the hierarchical structure of classes and the use of **Abstract Classes**.
+
+### Technical Highlights:
+* **Abstraction:** The `Animal` class is defined as `abstract`, meaning it serves as a blueprint and cannot be instantiated directly.
+* **Polymorphism (Method Overriding):** Both `Pet` and `Wild` classes implement the `abilities()` method in their own unique way.
+* **Ternary Operator:** Used a shorthand `if-else` to determine fear status in a single line.
+
+### 🖥️ Project Output:
+![Animal Kingdom Output](image-2.png)
