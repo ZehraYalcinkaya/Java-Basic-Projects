@@ -11,7 +11,7 @@ class Pet extends Animal{
 
     @Override
     public void abilities(String name,String say){
-        System.out.println("My "+ name+" say "+ say +" "+ say +" "+ say +" ");
+        System.out.println("\nMy "+ name+" say "+ say +" "+ say +" "+ say +" ");
     }
 }
 
@@ -21,6 +21,6 @@ class Wild extends Animal{  /*  ***to use in the same file u need not to use 'pu
     public boolean fear= true;
     @Override
     public void abilities(String name,String ableTo){
-        System.out.println( name+"s can "+ ableTo);
+        System.out.println( "\n"+name+"s can "+ ableTo);
     }
 } 

@@ -10,7 +10,7 @@ public class WhichOne {
     
 
     myCat.abilities("cat", "meow");
-    System.out.println("\nIt's color is "+myCat.color);
+    System.out.println("It's color is "+myCat.color);
 
 
     Pet myDog = new Pet();
@@ -27,8 +27,9 @@ public class WhichOne {
     System.out.println("\nThey live on "+ wolf.livesWhere);
     System.out.println("They have "+ wolf.legs+ " legs.");
     
-    System.out.println((wolf.fear)? "I am afraid of them. ": "I like them.");
+    
     wolf.abilities("Wolf", "run very fast");
+    System.out.println((wolf.fear)? "I am afraid of them. ": "I like them.");
     
 }
 
